@@ -1,0 +1,3 @@
+/home/lokoman/Documentos/c++/sistema_ventas_productos/build/CMakeFiles/EjecutableVentas.dir
+/home/lokoman/Documentos/c++/sistema_ventas_productos/build/CMakeFiles/edit_cache.dir
+/home/lokoman/Documentos/c++/sistema_ventas_productos/build/CMakeFiles/rebuild_cache.dir

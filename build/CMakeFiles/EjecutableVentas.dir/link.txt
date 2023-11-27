@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/EjecutableVentas.dir/src/Main.cpp.o CMakeFiles/EjecutableVentas.dir/src/Database.cpp.o CMakeFiles/EjecutableVentas.dir/src/Producto.cpp.o CMakeFiles/EjecutableVentas.dir/src/Carrito.cpp.o -o EjecutableVentas  -lmysqlcppconn 
